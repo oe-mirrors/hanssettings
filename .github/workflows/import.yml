@@ -1,0 +1,33 @@
+name: Import
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron:  '1 1 * * 0'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v2
+        with:
+          ref: 'master'
+
+      - name: Fetch files
+        run: |
+          sudo apt-get -q update
+          git config --global user.email "bot@oe-mirrors.com"
+          git config --global user.name "OE Mirror bot"
+          git clone https://gitlab.openpli.org/openpli/hanssettings
+          cp -rp hanssettings/* /
+          git checkout master
+          git add -u
+          git add *
+          git commit --message "Fetch latest hans settings."          
+          git remote add upstream https://${GITHUB_TOKEN}@github.com/oe-mirrors/hanssettings.git > /dev/null 2>&1
+          git push --quiet upstream master || echo "failed to push with error $?"
