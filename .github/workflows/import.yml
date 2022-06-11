@@ -25,6 +25,7 @@ jobs:
           git config --global user.name "OE Mirror bot"
           git clone https://gitlab.openpli.org/openpli/hanssettings
           cp -rp hanssettings/* .
+          rm -rf hanssettings
           git checkout master
           git add -u
           git add *
