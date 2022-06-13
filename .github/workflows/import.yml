@@ -29,6 +29,6 @@ jobs:
           git checkout master
           git add -u
           git add *
-          git commit --message "Fetch latest hans settings."          
+          git commit --message "Fetch latest hans settings." > /dev/null 2>&1          
           git remote add upstream https://${GITHUB_TOKEN}@github.com/oe-mirrors/hanssettings.git > /dev/null 2>&1
           git push --quiet upstream master || echo "failed to push with error $?"
