@@ -1,5 +1,5 @@
 #NAME Stream Oekraïne (UA)
-#SERVICE 1:64:1206:0:0:0:0:0:0:0:
+#SERVICE 1:64:124b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//free.fullspeed.tv/iptv-query?streaming-ip=https%3a//www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live:1+1
 #DESCRIPTION 1+1
@@ -35,6 +35,8 @@
 #DESCRIPTION Pravda TUT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//95.67.21.100/hls/prm_ua_hi/index.m3u8:Pryramyy
 #DESCRIPTION Pryramyy
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn1.live-tv.od.ua%3a8081/31chod/31chod-abr/playlist.m3u8:Reporter
+#DESCRIPTION Reporter
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.rudana.com.ua/hls/stream_FHD.m3u8:Rudana
 #DESCRIPTION Rudana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.simon.ua/live-HD/live/playlist.m3u8:Simon
@@ -67,7 +69,7 @@
 #DESCRIPTION Voice
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ztv.zp.ua/hls/live.m3u8:Z TV HD
 #DESCRIPTION Z TV HD
-#SERVICE 1:64:1207:0:0:0:0:0:0:0:
+#SERVICE 1:64:124c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2301-kbp.1plus1.video/sport/smil%3asport.smil/playlist.m3u8:1+1 Sport
 #DESCRIPTION 1+1 Sport

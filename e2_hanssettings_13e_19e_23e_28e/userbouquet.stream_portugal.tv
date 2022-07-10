@@ -1,5 +1,5 @@
 #NAME Stream Portugal (PT)
-#SERVICE 1:64:365:0:0:0:0:0:0:0:
+#SERVICE 1:64:37b:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a04j:RTP 1
 #DESCRIPTION RTP 1
@@ -15,6 +15,8 @@
 #DESCRIPTION RTP Açores
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//162.212.178.69%3a41042/bysid/608:RTP Internacional 
 #DESCRIPTION RTP Internacional 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//210.210.155.37/qwr9ew/s/s38/index.m3u8:RTP Internacional Asia
+#DESCRIPTION RTP Internacional Asia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a06c:RTP Madeira
 #DESCRIPTION RTP Madeira
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a03p:RTP Mémoria
@@ -41,7 +43,7 @@
 #DESCRIPTION TVI Ficção
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8:TVI Reality
 #DESCRIPTION TVI Reality
-#SERVICE 1:64:366:0:0:0:0:0:0:0:
+#SERVICE 1:64:37c:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.79.153.10%3a6500/play/a01c:24 Kitchen Portugal
 #DESCRIPTION 24 Kitchen Portugal

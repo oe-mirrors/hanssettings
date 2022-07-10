@@ -336,11 +336,11 @@ ffff0000:0812:0600
 ffff0000:0813:0600
 	c 522000:6900000:2:5:0:0:0
 /
-ffff0000:0804:0600
-	c 498000:6900000:2:5:0:0:0
-/
 ffff0000:0814:0600
 	c 538000:6900000:2:5:0:0:0
+/
+ffff0000:0804:0600
+	c 498000:6900000:2:5:0:0:0
 /
 ffff0000:080c:0600
 	c 514000:6900000:2:5:0:0:0
@@ -1654,7 +1654,7 @@ MGM ON Demand
 p:Ziggo
 3f35:ffff0000:0839:0600:22:0
 Testbeeld
-p:Ziggo
+p:Ziggo,c:050001
 3f45:ffff0000:0839:0600:25:0
 Ziggo Live Events
 p:Ziggo
@@ -2439,7 +2439,7 @@ p:Ziggo
 RTV Horizon
 p:Ziggo
 3079:ffff0000:00cc:0600:1:0
-Centraal TV
+Omroep Peelrand TV
 p:Ziggo
 307a:ffff0000:00cc:0600:1:0
 KempenTV
@@ -2454,8 +2454,8 @@ p:Ziggo
 Omroep Meierij
 p:Ziggo
 307e:ffff0000:00cc:0600:1:0
-Kontakt TV
-p:Ziggo
+266 SID 0x307e
+p:
 307f:ffff0000:00cc:0600:1:0
 VOS TV
 p:Ziggo
@@ -2487,7 +2487,7 @@ p:
 Omroep Brabant
 p:Ziggo
 384a:ffff0000:00cc:0600:2:0
-Centraal FM
+Omroep Peelrand Radio
 p:Ziggo
 384b:ffff0000:00cc:0600:2:0
 KempenFM
@@ -2499,17 +2499,14 @@ p:Ziggo
 eenfm
 p:Ziggo
 384e:ffff0000:00cc:0600:2:0
-Radio Kontakt
-p:Ziggo
+266 SID 0x384e
+p:
 384f:ffff0000:00cc:0600:2:0
 VOS FM
 p:Ziggo
 3850:ffff0000:00cc:0600:2:0
 Omroep Meierij FM
 p:Ziggo
-3851:ffff0000:00cc:0600:2:0
-266 SID 0x3851
-p:
 3852:ffff0000:00cc:0600:2:0
 Radio S&B
 p:Ziggo
@@ -4063,7 +4060,7 @@ RTL Crime HD
 p:Ziggo,c:050001
 4c1c:ffff0000:0836:0600:25:0
 NPO 2 extra
-p:Ziggo,c:050001,c:090202
+p:Ziggo,c:050001,c:098800
 4c1f:ffff0000:0836:0600:25:0
 DanceTelevision
 p:Ziggo
@@ -4112,12 +4109,6 @@ p:Ziggo,c:050001
 4b4e:ffff0000:0812:0600:25:0
 TV Oranje
 p:Ziggo,c:050001
-4b5b:ffff0000:0813:0600:22:0
-CBS Reality
-p:Ziggo
-4b5c:ffff0000:0813:0600:22:0
-Extreme Sports Channel
-p:Ziggo
 4b5e:ffff0000:0813:0600:22:0
 SLAM!
 p:Ziggo
@@ -4136,9 +4127,39 @@ p:Ziggo,c:050001
 4b63:ffff0000:0813:0600:25:0
 RTL Telekids HD
 p:Ziggo,c:050001
-4e63:ffff0000:0804:0600:22:0
-Pebble TV
+4b65:ffff0000:0814:0600:22:0
+Nicktoons
 p:Ziggo
+4b66:ffff0000:0814:0600:22:0
+Evil Angel
+p:Ziggo,c:050001
+4b67:ffff0000:0814:0600:22:0
+Nick Jr.
+p:Ziggo
+4b68:ffff0000:0814:0600:22:0
+MTV 90s
+p:Ziggo
+4b69:ffff0000:0814:0600:22:0
+PassieXXX
+p:Ziggo,c:050001
+4b6c:ffff0000:0814:0600:22:0
+X-MO
+p:Ziggo,c:050001
+4b6f:ffff0000:0814:0600:22:0
+DUSK
+p:Ziggo,c:050001
+4b70:ffff0000:0814:0600:22:0
+MvH Hard
+p:Ziggo,c:050001
+4b72:ffff0000:0814:0600:22:0
+MBC
+p:Ziggo
+4b6b:ffff0000:0814:0600:25:0
+NPO 1 extra
+p:Ziggo,c:050001,c:098800
+4b71:ffff0000:0814:0600:25:0
+Penthouse Gold
+p:Ziggo,c:050001
 4e65:ffff0000:0804:0600:22:0
 Aljazeera
 p:Ziggo
@@ -4174,39 +4195,6 @@ TVM Europe
 p:Ziggo
 4e67:ffff0000:0804:0600:25:0
 Horse & Country TV HD
-p:Ziggo,c:050001
-4b65:ffff0000:0814:0600:22:0
-Nicktoons
-p:Ziggo
-4b66:ffff0000:0814:0600:22:0
-Evil Angel
-p:Ziggo,c:050001
-4b67:ffff0000:0814:0600:22:0
-Nick Jr.
-p:Ziggo
-4b68:ffff0000:0814:0600:22:0
-MTV 90s
-p:Ziggo
-4b69:ffff0000:0814:0600:22:0
-PassieXXX
-p:Ziggo,c:050001
-4b6c:ffff0000:0814:0600:22:0
-X-MO
-p:Ziggo,c:050001
-4b6f:ffff0000:0814:0600:22:0
-DUSK
-p:Ziggo,c:050001
-4b70:ffff0000:0814:0600:22:0
-MvH Hard
-p:Ziggo,c:050001
-4b72:ffff0000:0814:0600:22:0
-MBC
-p:Ziggo
-4b6b:ffff0000:0814:0600:25:0
-NPO 1 extra
-p:Ziggo,c:050001,c:098800
-4b71:ffff0000:0814:0600:25:0
-Penthouse Gold
 p:Ziggo,c:050001
 4ac5:ffff0000:080c:0600:22:0
 RTV-7
@@ -4456,7 +4444,7 @@ Paramount Network
 p:Ziggo,c:050001
 76c1:ffff0000:0832:0600:25:0
 30401
-p:Ziggo,c:050001,c:090202
+p:Ziggo,c:050001,c:098800
 4bc9:ffff0000:0832:0600:25:0
 NPO 1 HD
 p:Ziggo,c:050001,c:098800

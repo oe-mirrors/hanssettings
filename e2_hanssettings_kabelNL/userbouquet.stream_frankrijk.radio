@@ -747,6 +747,8 @@
 #DESCRIPTION Radio Campus Angers (FR)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiocampuslille-128.mp3:Radio Campus Lille
 #DESCRIPTION Radio Campus Lille
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//capsaopremium.ice.infomaniak.ch/capsaopremium-128.mp3:Radio Capsao Lyon
+#DESCRIPTION Radio Capsao Lyon
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//broadcast.infomaniak.net/radiochablais-high.aac:Radio Chablais AAC+
 #DESCRIPTION Radio Chablais AAC+
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//radiochablais.ice.infomaniak.ch%3a80/radiochablais-high.mp3:Radio Chablais

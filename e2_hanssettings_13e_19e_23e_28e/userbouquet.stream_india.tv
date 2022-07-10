@@ -305,7 +305,7 @@
 #DESCRIPTION NDTV India
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8:NDTV Profit
 #DESCRIPTION NDTV Profit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.com/neestream_01/nee_cinema/tracks-v1a1/mono.m3u8:Nee Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400:Nee Cinema
 #DESCRIPTION Nee Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//shashwatha.com/hls/show/newhopetv_low.m3u8:New Hope TV
 #DESCRIPTION New Hope TV
@@ -387,6 +387,8 @@
 #DESCRIPTION PTV Pardesi TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0ld/index.m3u8:Public TV
 #DESCRIPTION Public TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//royalstarindia.co.in/cinematv_hls/cinematv.m3u8:Pulari Cinema
+#DESCRIPTION Pulari Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//royalstarindia.co.in/pularitv_hls/pularitv.m3u8:Pulari TV
 #DESCRIPTION Pulari TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8:Punjab TV

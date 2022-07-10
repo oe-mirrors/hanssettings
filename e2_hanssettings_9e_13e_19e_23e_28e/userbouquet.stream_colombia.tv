@@ -11,6 +11,8 @@
 #DESCRIPTION Canal Cali TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/popular/popular/chunklist_.m3u8:Canal CNC HD
 #DESCRIPTION Canal CNC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8054/8054/playlist.m3u8:Canal CNC Cartagena
+#DESCRIPTION Canal CNC Cartagena
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/canalcnc/canalcnc/chunklist.m3u8:Canal CNC Medellin
 #DESCRIPTION Canal CNC Medellin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//66.240.236.25%3a1936/cncpasto/cncpasto/chunklist.m3u8:Canal CNC Pasto
@@ -31,6 +33,10 @@
 #DESCRIPTION Canal Latino
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//g2.vxral-slo.transport.edge-access.net/a11/ngrp%3acanal_luz01-100009_all/Playlist.m3u8:Canal Luz
 #DESCRIPTION Canal Luz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.servers10.com%3a8081/8092/playlist.m3u8:Canal NorteVision (Pasto, Nariño)
+#DESCRIPTION Canal NorteVision (Pasto, Nariño)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//byecableiptv.com/canapycvivo/canalpyc.stream/playlist.m3u8:Canal PyC (Ibagué, Tolima)
+#DESCRIPTION Canal PyC (Ibagué, Tolima)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8:Cosmovision
 #DESCRIPTION Cosmovision
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v2.tustreaming.cl/culturaonline/index.m3u8:Cultura Online
@@ -39,6 +45,8 @@
 #DESCRIPTION Galeras TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5eff35271151c.streamlock.net%3a1936/8076/ngrp%3a8076/playlist.m3u8:La Popular TV
 #DESCRIPTION La Popular TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud2.streaminglivehd.com%3a1936/8010/8010/playlist.m3u8:Multicanal Televisión (Cali, Valle del Cauca)
+#DESCRIPTION Multicanal Televisión (Cali, Valle del Cauca)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vcp1.myplaytv.com%3a1935/mundomas/mundomas/playlist.m3u8:Mundo Mas
 #DESCRIPTION Mundo Mas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8:Noticias Channel
@@ -53,7 +61,7 @@
 #DESCRIPTION RCN Mas
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8:Suram TV
 #DESCRIPTION Suram TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dcs-live.apis.anvato.net/server/play/qRNQEfZ4Rd9snRxLQ/rendition.m3u8?track=video-4&anvsid=i176422952-n46e7e0cd-445a-46a5-a04a-1bcfb2574ea2&ts=&anvtrid=:Telecaribe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L/9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix/L9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg==:Telecaribe
 #DESCRIPTION Telecaribe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//vbox2.cehis.net/live-teleislas/teleislas app=live-teleislas pageUrl=https%3a//streaming.com.co/clientes/teleislas/index.html swfUrl=https%3a//cehis.net/player55/player.swf tcUrl=rtmp%3a//vbox2.cehis.net/live-teleislas playPath=teleislas live=1:Teleislas
 #DESCRIPTION Teleislas

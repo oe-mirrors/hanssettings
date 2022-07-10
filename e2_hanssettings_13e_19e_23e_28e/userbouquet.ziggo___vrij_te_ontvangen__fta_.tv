@@ -1,4 +1,4 @@
-#NAME Ziggo - vrij te ontvangen (fta)
+#NAME Ziggo - vrij te ontvangen (ongecodeerd)
 #SERVICE 1:0:19:4bc9:832:600:ffff0000:0:0:0:
 #SERVICE 1:0:19:4bca:832:600:ffff0000:0:0:0:
 #SERVICE 1:0:19:4bcd:832:600:ffff0000:0:0:0:
@@ -126,7 +126,6 @@
 #SERVICE 1:0:1:3079:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:307c:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:307d:cc:600:ffff0000:0:0:0:
-#SERVICE 1:0:1:307e:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:3075:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:3078:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:307f:cc:600:ffff0000:0:0:0:
@@ -175,4 +174,4 @@
 #SERVICE 1:0:1:3074:cc:600:ffff0000:0:0:0:
 #SERVICE 1:0:1:3072:cc:600:ffff0000:0:0:0:
 #SERVICE 1:64:179:0:0:0:0:0:0:0:
-#DESCRIPTION +++basis Ziggo Ehv 29 mei 2022++
+#DESCRIPTION +++basis Ziggo Ehv 30 juni 2022++

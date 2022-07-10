@@ -1,5 +1,5 @@
 #NAME Stream UK - Engeland (UK)
-#SERVICE 1:64:2b8:0:0:0:0:0:0:0:
+#SERVICE 1:64:355:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - BBC++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_radio_berkshire:BBC Radio Berkshire
 #DESCRIPTION BBC Radio Berkshire
@@ -79,7 +79,7 @@
 #DESCRIPTION BBC Radio York
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio:BBC Three Counties Radio
 #DESCRIPTION BBC Three Counties Radio
-#SERVICE 1:64:2b9:0:0:0:0:0:0:0:
+#SERVICE 1:64:356:0:0:0:0:0:0:0:
 #DESCRIPTION ++UK radio Engeland - overigen++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//fr1.1mix.co.uk%3a8060/320:1Mix Radio - Trancel (Engeland, UK)
 #DESCRIPTION 1Mix Radio - Trancel (Engeland, UK)
@@ -499,6 +499,8 @@
 #DESCRIPTION Giants of Jazz Radio (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.canstream.co.uk%3a8000/glastonburyfm.mp3:Glastonbury GFM (Glastonbury, Engeland, UK)
 #DESCRIPTION Glastonbury GFM (Glastonbury, Engeland, UK)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//s7.yesstreaming.net%3a8050/stream:GlitterBeam (LGBTQ+ radio)
+#DESCRIPTION GlitterBeam (LGBTQ+ radio)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//node-22.zeno.fm/6qk9nwbhd2zuv?rj-ttl=5&rj-tok=AAABc9hbn3sAF5ag3G5bD3Jpuw:Glive Radio UK (Engeland, UK)
 #DESCRIPTION Glive Radio UK (Engeland, UK)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//188.165.232.7%3a8551/stream:Global Hardhouse (Engeland, UK)

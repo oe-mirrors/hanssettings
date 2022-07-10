@@ -1,5 +1,5 @@
 #NAME Stream Feeds
-#SERVICE 1:64:208:0:0:0:0:0:0:0:
+#SERVICE 1:64:21f:0:0:0:0:0:0:0:
 #DESCRIPTION ++Nederland feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dpp-aldag-livestreams.akamaized.net/aldag-stream1/streamx/aldag-stream1_720p.m3u8:Algemeen Dagblad 1
 #DESCRIPTION Algemeen Dagblad 1
@@ -25,7 +25,7 @@
 #DESCRIPTION SBS 6 Event Channel 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3r6frfb0ko02q.cloudfront.net/live/omroepwest/livestream/1080p/index.m3u8:TV West
 #DESCRIPTION TV West
-#SERVICE 1:64:209:0:0:0:0:0:0:0:
+#SERVICE 1:64:220:0:0:0:0:0:0:0:
 #DESCRIPTION +België-Vlaanderen feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.parolis.be%3a1935/live/PLN_NL/chunklist_w27225067.m3u8:Federaal Parlement
 #DESCRIPTION Federaal Parlement
@@ -39,11 +39,11 @@
 #DESCRIPTION VRT Events 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-cf-vrt.akamaized.net/groupa/live/7d5f0e4a-3429-4861-91d4-aa3229d7ad7b/live_aes.isml/live_aes-audio_track_0_0_dut=128000-video_track=3000000.m3u8?hd%3aSporza Livestream:VRT Feed
 #DESCRIPTION VRT Feed
-#SERVICE 1:64:20a:0:0:0:0:0:0:0:
+#SERVICE 1:64:221:0:0:0:0:0:0:0:
 #DESCRIPTION ++België-Wallonië feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8:RTL TVI
 #DESCRIPTION RTL TVI
-#SERVICE 1:64:20b:0:0:0:0:0:0:0:
+#SERVICE 1:64:222:0:0:0:0:0:0:0:
 #DESCRIPTION ++Canada feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//github.com/geonsey/Free2ViewTV/blob/master/videos/GlobalNews_Notice.mp4?raw=true:Global News Live Stream
 #DESCRIPTION Global News Live Stream
@@ -55,13 +55,13 @@
 #DESCRIPTION CTV News Live 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8:CTV News Live 4
 #DESCRIPTION CTV News Live 4
-#SERVICE 1:64:20c:0:0:0:0:0:0:0:
+#SERVICE 1:64:223:0:0:0:0:0:0:0:
 #DESCRIPTION ++China feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cd-live-stream.news.cctvplus.com/live/smil%3aCHANNEL1.smil/playlist.m3u8:CCTV+ 1
 #DESCRIPTION CCTV+ 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cd-live-stream.news.cctvplus.com/live/smil%3aCHANNEL2.smil/playlist.m3u8:CCTV+ 2
 #DESCRIPTION CCTV+ 2
-#SERVICE 1:64:20d:0:0:0:0:0:0:0:
+#SERVICE 1:64:224:0:0:0:0:0:0:0:
 #DESCRIPTION ++Duitsland feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8:ARD Event 1
 #DESCRIPTION ARD Event 1
@@ -89,13 +89,13 @@
 #DESCRIPTION NDR Spezial 6
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//swrevent03hls.akamaized.net/hls/live/2016768/event03/master.m3u8:SWR Event
 #DESCRIPTION SWR Event
-#SERVICE 1:64:20e:0:0:0:0:0:0:0:
+#SERVICE 1:64:225:0:0:0:0:0:0:0:
 #DESCRIPTION ++EBS (Europe By Satellite)++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8:EbS Live
 #DESCRIPTION EbS Live
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8:EbS+ Live
 #DESCRIPTION EbS+ Live
-#SERVICE 1:64:20f:0:0:0:0:0:0:0:
+#SERVICE 1:64:226:0:0:0:0:0:0:0:
 #DESCRIPTION ++Spanje feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041583/IRTVE01_AKA_HLS_GL0/bitrate_4.m3u8:RTVE Play 1
 #DESCRIPTION RTVE Play 1
@@ -105,7 +105,7 @@
 #DESCRIPTION RTVE Play 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvehlslivestream.akamaized.net/hls/live/2041587/IRTVE04_AKA_HLS_GL0/bitrate_4.m3u8:RTVE Play 4
 #DESCRIPTION RTVE Play 4
-#SERVICE 1:64:210:0:0:0:0:0:0:0:
+#SERVICE 1:64:227:0:0:0:0:0:0:0:
 #DESCRIPTION ++USA feeds++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8:Reuters TV News
 #DESCRIPTION Reuters TV News

@@ -131,7 +131,7 @@
 #DESCRIPTION Radio Tele Taxi
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//streaming.radio.co/s3a9cb38f3/listen:Radio – SOL FM – Fuerteventura
 #DESCRIPTION Radio – SOL FM – Fuerteventura
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/RADIOLE_ASO_COSTA_LUZ.mp3:Radiole Costa de la Luz, Huelva
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_COSTA_LUZ:Radiole Costa de la Luz, Huelva
 #DESCRIPTION Radiole Costa de la Luz, Huelva
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//19993.live.streamtheworld.com/RADIOLEAAC.aac:Radiolé
 #DESCRIPTION Radiolé

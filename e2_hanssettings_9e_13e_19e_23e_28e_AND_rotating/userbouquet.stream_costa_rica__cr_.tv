@@ -1,5 +1,5 @@
 #NAME Stream Costa Rica (CR)
-#SERVICE 1:64:11cf:0:0:0:0:0:0:0:
+#SERVICE 1:64:1214:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.teleunotv.cr%3a1935/TVUNO/TVUNO/playlist.m3u8:Tele 1 TV
 #DESCRIPTION Tele 1 TV
@@ -27,7 +27,7 @@
 #DESCRIPTION Anexion TV 36
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.info/canal38/envivo/playlist.m3u8:Canal 38 HD
 #DESCRIPTION Canal 38 HD
-#SERVICE 1:64:11d0:0:0:0:0:0:0:0:
+#SERVICE 1:64:1215:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.ticosmedia.com%3a1935/COLOSAL/COLOSAL/playlist.m3u8:Colosal TV HD
 #DESCRIPTION Colosal TV HD
@@ -51,3 +51,5 @@
 #DESCRIPTION Telesur  -2-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//k4.usastreams.com/videotour/videotour/playlist.m3u8:Video Tour Channel
 #DESCRIPTION Video Tour Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8:VM Latino
+#DESCRIPTION VM Latino

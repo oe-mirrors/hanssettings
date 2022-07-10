@@ -1,5 +1,5 @@
 #NAME Stream China (CN)
-#SERVICE 1:64:321:0:0:0:0:0:0:0:
+#SERVICE 1:64:337:0:0:0:0:0:0:0:
 #DESCRIPTION ++hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//39.134.115.163%3a8080/PLTV/88888910/224/3221225618/index.m3u8:CCTV 1 HD
 #DESCRIPTION CCTV 1 HD
@@ -41,8 +41,8 @@
 #DESCRIPTION CETV 2
 #SERVICE 4097:0:1:1b02:3fe:1:c00000:0:0:0:http%3a//news.cgtn.com/resource/live/english/cgtn-news.m3u8:CGTN
 #DESCRIPTION CGTN
-#SERVICE 1:64:322:0:0:0:0:0:0:0:
-#DESCRIPTION ++landelijk++
+#SERVICE 1:64:338:0:0:0:0:0:0:0:
+#DESCRIPTION ++overige hoofdzenders++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8:Asian American Television - AAT TV
 #DESCRIPTION Asian American Television - AAT TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8:Australian Sports
@@ -79,6 +79,8 @@
 #DESCRIPTION Gansu Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8:Golden Eagle Cartoon
 #DESCRIPTION Golden Eagle Cartoon
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e:Hainan Satellite TV
+#DESCRIPTION Hainan Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8:Hunan Satellite TV
 #DESCRIPTION Hunan Satellite TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.m2oplus.nmtv.cn/1/playlist.m3u8:Inner Mongolia Satellite TV
@@ -129,7 +131,7 @@
 #DESCRIPTION Yanbian TV 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8:Youman Cartoon
 #DESCRIPTION Youman Cartoon
-#SERVICE 1:64:323:0:0:0:0:0:0:0:
+#SERVICE 1:64:339:0:0:0:0:0:0:0:
 #DESCRIPTION ++regionaal++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8:Bazhong Comprehensive
 #DESCRIPTION Bazhong Comprehensive
@@ -151,8 +153,10 @@
 #DESCRIPTION Chóngqìng Zhōng Xiàn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8:Daqing News Comprehensive
 #DESCRIPTION Daqing News Comprehensive
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//60.175.115.119%3a1935/live/wenhua/playlist.m3u8:Fèng Tái wénhuà Shēnghuó
-#DESCRIPTION Fèng Tái wénhuà Shēnghuó
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//60.175.115.119%3a1935/live/wenhua/playlist.m3u8:Fèng Tái Wénhuà Shēnghuó
+#DESCRIPTION Fèng Tái Wénhuà Shēnghuó
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//60.175.115.119%3a1935/live/zonghe/playlist.m3u8:Fèng Tái Zònghé
+#DESCRIPTION Fèng Tái Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream6.fjtv.net/child/sd/live.m3u8:Fujian Children
 #DESCRIPTION Fujian Children
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.fjtv.net/zhpd/sd/live.m3u8:Fujian Comprehensive
@@ -169,8 +173,8 @@
 #DESCRIPTION Fujian TV Series
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbfc.chinashadt.com%3a2036/live/6.stream/playlist.m3u8:Héběi Jīngjì
 #DESCRIPTION Héběi Jīngjì
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pili-live-hls.hebitv.com/hebi/hebi.m3u8:Hebi News Comprehensive
-#DESCRIPTION Hebi News Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//pili-live-hls.hebitv.com/hebi/hebi.m3u8:Hèbì Xīnwén Zònghé
+#DESCRIPTION Hèbì Xīnwén Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/hyzh/sd/live.m3u8:Heyuan Comprehensive
 #DESCRIPTION Heyuan Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8:HRB Entertainment
@@ -183,6 +187,8 @@
 #DESCRIPTION HRB News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225760/index.m3u8:HRB Television
 #DESCRIPTION HRB Television
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls-ott-zhibo.wasu.tv/live/442/index.m3u8:Huá Shù
+#DESCRIPTION Huá Shù
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/hzzh/sd/live.m3u8:Huizhou News Comprehensive
 #DESCRIPTION Huizhou News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ahhs.chinashadt.com%3a1936/live/stream%3ahs1.stream/playlist.m3u8:Huoshan TV
@@ -197,8 +203,10 @@
 #DESCRIPTION Inner Mongolia News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live4.m2oplus.nmtv.cn/8/playlist.m3u8:Inner Mongolia sports and entertainment
 #DESCRIPTION Inner Mongolia sports and entertainment
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/jmzh/sd/live.m3u8:Jiangmen Comprehensive
-#DESCRIPTION Jiangmen Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.dxhmt.cn%3a9081/tv/11003-1.m3u8:Jiàn'ān Diànshìtái
+#DESCRIPTION Jiàn'ān Diànshìtái
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/jmzh/sd/live.m3u8:Jiāngmén Zònghé
+#DESCRIPTION Jiāngmén Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8:Jiangsu Haoxiang Shopping
 #DESCRIPTION Jiangsu Haoxiang Shopping
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8:Jiangxi Fashion Shopping
@@ -357,8 +365,8 @@
 #DESCRIPTION Sanming News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.smntv.cn/smtv2/sd/live.m3u8:Sanming Public Channel
 #DESCRIPTION Sanming Public Channel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/swzh/sd/live.m3u8:Shanwei Public
-#DESCRIPTION Shanwei Public
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/swzh/sd/live.m3u8:Shànwěi Zònghé
+#DESCRIPTION Shànwěi Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/sgxwzhHD/playlist.m3u8:Shaoguan TV
 #DESCRIPTION Shaoguan TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//218.17.99.211%3a5080/livestream/ttsw6ccn.flv:Shekou Comprehensive
@@ -397,10 +405,10 @@
 #DESCRIPTION Xiamen Mobile TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8:Xiamen Star
 #DESCRIPTION Xiamen Star
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.233.242.239%3a280/live/71/playlist.m3u8:Xiantao News Comprehensive
-#DESCRIPTION Xiantao News Comprehensive
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.233.242.239%3a280/live/72/playlist.m3u8:Xiantao style life
 #DESCRIPTION Xiantao style life
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//221.233.242.239%3a280/live/71/playlist.m3u8:Xiāntáo Xīnwén Zònghé
+#DESCRIPTION Xiāntáo Xīnwén Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbxx.chinashadt.com%3a3299/live/stream%253Adi7.stream_360p/chunklist.m3u8:Xianxian 1
 #DESCRIPTION Xianxian 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hbxx.chinashadt.com%3a3299/live/stream%253Adi8.stream_360p/chunklist.m3u8:Xian County 2
@@ -423,6 +431,8 @@
 #DESCRIPTION Ya'an Public Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/jyzh/sd/live.m3u8:Yangjiang Comprehensive
 #DESCRIPTION Yangjiang Comprehensive
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dslive.grtn.cn/yjzh/playlist.m3u8:Yángjiāng Zònghé
+#DESCRIPTION Yángjiāng Zònghé
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live-dft-hls-yf.jstv.com/live/yixing_xw/online.m3u8:Yixing News Channel
 #DESCRIPTION Yixing News Channel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hnyz.chinashadt.com%3a2036/live/stream%3atv1.stream_360p/playlist.m3u8:Yí Zhāng Xīnwén Zònghé

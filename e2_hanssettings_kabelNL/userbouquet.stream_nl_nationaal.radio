@@ -1,5 +1,5 @@
 #NAME Stream NL nationaal (NL)
-#SERVICE 1:64:28f:0:0:0:0:0:0:0:
+#SERVICE 1:64:32c:0:0:0:0:0:0:0:
 #DESCRIPTION ++publieke zenders++
 #SERVICE 4097:0:2:5258:c99:3:eb0000:0:0:0:http%3a//icecast.omroep.nl%3a80/radio1-bb-mp3:NPO Radio 1
 #DESCRIPTION NPO Radio 1
@@ -41,7 +41,7 @@
 #DESCRIPTION FunX Utrecht
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//149.210.222.13%3a8030/:Spreekbuis Radio
 #DESCRIPTION Spreekbuis Radio
-#SERVICE 1:64:290:0:0:0:0:0:0:0:
+#SERVICE 1:64:32d:0:0:0:0:0:0:0:
 #DESCRIPTION ++(commerciële) HOOFDzenders++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//40rockstream.live-streams.nl/live:40ROCK Radio
 #DESCRIPTION 40ROCK Radio
@@ -469,7 +469,7 @@
 #DESCRIPTION Wild FM
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//audio.ztack.nl/radio/8000/ztack:ZTACK
 #DESCRIPTION ZTACK
-#SERVICE 1:64:291:0:0:0:0:0:0:0:
+#SERVICE 1:64:32e:0:0:0:0:0:0:0:
 #DESCRIPTION ++religieus++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//str1.hollanddata.eu%3a8000:Bright FM
 #DESCRIPTION Bright FM
@@ -479,6 +479,8 @@
 #DESCRIPTION Bright FM Plus
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//primastream1.primareclame.nl%3a11231/:Christelijke Omroep
 #DESCRIPTION Christelijke Omroep
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.wildfm.nl/GOD_Radio:GOD Radio
+#DESCRIPTION GOD Radio
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//212.238.183.37%3a8004/:Golfbreker Radio
 #DESCRIPTION Golfbreker Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//grootnieuwsradio.streampartner.nl%3a8050/live:Groot Nieuws Radio
@@ -501,7 +503,7 @@
 #DESCRIPTION Trans World Radio NL
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//live.urkfm.nl%3a8000/geestelijk.mp3:Urk FM Geestelijk
 #DESCRIPTION Urk FM Geestelijk
-#SERVICE 1:64:292:0:0:0:0:0:0:0:
+#SERVICE 1:64:32f:0:0:0:0:0:0:0:
 #DESCRIPTION ++overige++
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//stream.18hits.fm/18Hmp3:18Hits (NL Nationaal)
 #DESCRIPTION 18Hits (NL Nationaal)
@@ -1093,6 +1095,8 @@
 #DESCRIPTION SurfRadio (NL nationaal, overig)
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//securestream3.digipal.nl%3a2233/;stream.mp3:Tesselradio
 #DESCRIPTION Tesselradio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//cast3.my-control-panel.com%3a8170/stream:The Funky Channel
+#DESCRIPTION The Funky Channel
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:http%3a//83.81.37.70%3a8000/1:The Oldie Station (Eindhoven - Noord-Brabant
 #DESCRIPTION The Oldie Station (Eindhoven - Noord-Brabant
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.hostinggold.eu%3a1145/stream:Thuisradio FM
